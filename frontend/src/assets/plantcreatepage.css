@@ -1,0 +1,12 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.card-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}

@@ -1,0 +1,15 @@
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    
+    bottom: 0;
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Garante que a altura mínima do wrapper seja 100% da altura da viewport */
+}

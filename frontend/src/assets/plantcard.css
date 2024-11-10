@@ -1,0 +1,28 @@
+.plant-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.plant-card.watering-day {
+    border-color: #f39c12;
+    background-color: #fff3e0;
+}
+
+.alert {
+    padding: 10px;
+    background-color: #f39c12;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.badge {
+    background-color: #f39c12;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 10px;
+    font-size: 12px;
+    margin-left: 5px;
+}
